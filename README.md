@@ -36,7 +36,3 @@ The NewsApp is a dynamic web application that provides users with real-time news
 ## Contribution
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
-## License
-
-Licensed under the [MIT License](LICENSE).
